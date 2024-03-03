@@ -4,7 +4,7 @@
 ![image](https://github.com/Pikkachoo/Sales-data-analysis/assets/110214965/7931d45d-9311-4fe6-8b4c-17b302054a12)
 
 
-## Purpose of Analysis
+## Project Overview
 
 This analysis delved into sales data to identify trends, top-selling products, and revenue metrics for provide insights for business decision-making.
 
